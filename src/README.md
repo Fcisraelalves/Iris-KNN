@@ -24,5 +24,5 @@ python codigo.py
 - O código foi desenvolvido para funcionar tanto em ambiente interativo quanto como um script independente.
 
 ---
-Desenvolvido por [Seu Nome] 🚀
+Desenvolvido por Israel Alves 🚀
 
