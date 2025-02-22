@@ -10,14 +10,15 @@ O arquivo modelo.pkl contém um modelo treinado que pode ser carregado e utiliza
 
 Para carregar o modelo em Python, utilize o seguinte código:
 
+```python
 import joblib
 
 # Carregar o modelo
 modelo = joblib.load("modelo.pkl")
 
-# Fazer previsões (substitua X_novo pelos seus dados)
+# Fazer previsões
 predicao = modelo.predict(X_novo)
-
+```
 📜 Observações
 
 Certifique-se de que a biblioteca joblib está instalada (pip install joblib).
