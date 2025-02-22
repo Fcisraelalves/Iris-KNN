@@ -3,8 +3,8 @@
 Este diretório contém o código-fonte do projeto, disponibilizado nos formatos **Jupyter Notebook (`.ipynb`)** e **script Python (`.py`)**.
 
 ## 📌 Conteúdo
-- `codigo.ipynb` → Versão interativa do código, ideal para exploração e testes.
-- `codigo.py` → Versão em script Python, pronta para execução direta.
+- `iris.ipynb` → Versão interativa do código, ideal para exploração e testes.
+- `main.py` → Versão em script Python, pronta para execução direta.
 
 ## 🚀 Como Usar
 ### 1️⃣ Usando o Jupyter Notebook
